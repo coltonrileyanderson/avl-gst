@@ -1,3 +1,4 @@
+#include <openssl/bn.h>
 /* 
  * real.c 
  * by Colton Andreson

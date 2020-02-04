@@ -1,3 +1,4 @@
+#include <openssl/bn.h>
 /* 
  * test-avl.h 
  * by Colton Andreson

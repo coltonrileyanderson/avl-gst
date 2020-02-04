@@ -1,3 +1,4 @@
+#include <openssl/bn.h>
 /* 
  * avl.c 
  * by Colton Andreson

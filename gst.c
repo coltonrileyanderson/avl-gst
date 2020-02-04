@@ -1,3 +1,4 @@
+#include <openssl/bn.h>
 /* 
  * gst.c 
  * by Colton Andreson

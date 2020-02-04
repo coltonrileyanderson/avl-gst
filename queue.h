@@ -1,3 +1,4 @@
+#include <openssl/bn.h>
 /* 
  * queue.h 
  * by Colton Andreson

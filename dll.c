@@ -1,3 +1,4 @@
+#include <openssl/bn.h>
 /* 
  * dll.c 
  * by Colton Andreson

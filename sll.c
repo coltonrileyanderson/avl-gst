@@ -1,3 +1,4 @@
+#include <openssl/bn.h>
 /* 
  * sll.c 
  * by Colton Andreson

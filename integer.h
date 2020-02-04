@@ -1,3 +1,4 @@
+#include <openssl/bn.h>
 #ifndef __INTEGER_INCLUDED__
 #define __INTEGER_INCLUDED__
 

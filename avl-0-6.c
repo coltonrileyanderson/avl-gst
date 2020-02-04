@@ -1,3 +1,4 @@
+#include <openssl/bn.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include "integer.h"

@@ -1,3 +1,4 @@
+#include <openssl/bn.h>
 #ifndef __BST_INCLUDED__
 #define __BST_INCLUDED__
 

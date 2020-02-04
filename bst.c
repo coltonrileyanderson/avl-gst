@@ -1,3 +1,4 @@
+#include <openssl/bn.h>
 /* 
  * bst.c 
  * by Colton Andreson
